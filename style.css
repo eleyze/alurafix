@@ -1,6 +1,8 @@
 body {
     background: black;
     color: white;
+    margin: 0px;
+    font-family: "Outfit", sans-serif;
 }    
 
 section {
@@ -11,17 +13,16 @@ section {
     justify-content: center;
 }
 
-div {
-    margin-right: 20px;
-}
-
 .chamada-texto {
     margin-right: 20px;
 }
 
+h1 {
+    font-size: 40px;
+}
 
-
-
-
+p {
+    font-size: 20px;
+}
 
 
